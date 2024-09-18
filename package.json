@@ -8,8 +8,8 @@
   "requires": true,
   "packages": {},
   "engines": {
-    "node": "16.x",
-    "npm": ">=7.0.0"
+    "node": "6.x",
+    "npm": ">=6.0.0"
   },
   "dependencies": {
     "axios": "^1.7.7",
