@@ -30,8 +30,4 @@
 • open file akun.text paste your cookie <br />
 • npm start 
 
-# Itsuki nakano ♡# Itsuki-nakano-v1
-# Itsuki-nakano-v1
-# Itsuki-nakano-v1
-# Itsuki-Nkn
-# Itsuki-Nkn
+# Itsuki nakano ♡
