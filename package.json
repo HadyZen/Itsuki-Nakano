@@ -21,8 +21,8 @@
     "https-proxy-agent": "^7.0.5",
     "mqtt": "^4.3.7",
     "mqtt-packet": "^6.9.1",
-    "npmlog": "^7.0.1",
-    "request": "^2.88.2",
+    "npmlog": "^4",
+    "request": "^1",
     "websocket-stream": "^5.5.2"
   },
   "scripts": {
